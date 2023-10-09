@@ -18,7 +18,8 @@ Treatments and processing: Some stones may be treated or processed to enhance or
 
 Ambient light: How the stone interacts with ambient light can also affect the perception of its color. Lighting, light intensity, and the light source can make the stone appear to have different colors under different conditions.
 
-In summary, the color of a stone is determined by its chemical composition, the presence of impurities, the crystal structure, possible treatments, and how it interacts with light. Each type of stone will have specific characteristics that influence its color, and it is the combination of these factors that defines the perceived color of the stone.
+So, the color of a stone is determined by its chemical composition, the presence of impurities, the crystal structure, possible treatments, and how it interacts with light. Each type of stone will have specific characteristics that influence its color, and it is the combination of these factors that defines the perceived color of the stone.
+
 <p align="left">
  <img src="https://github.com/elias-wolk/-Augmented-Reality-Library/assets/142256550/ee27e540-ad9d-494a-9c84-4a1a8834c530"width="200" />
 <p align="left">
