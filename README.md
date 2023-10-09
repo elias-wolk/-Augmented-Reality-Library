@@ -1,5 +1,5 @@
 # -Augmented-Reality-Library
-This project is part of NASA's Hackathon with the theme 'Be a Space Geologist.
+This project is part of NASA's Hackathon with the theme "Be a Space Geologist."
 
 
 The purpose of this project is to describe and demonstrate an innovative application of an augmented reality library in the field of geological studies. Through this application, geology students and professionals can explore and interact with three-dimensional models of geological formations, minerals, and complex geological structures, providing an engaging and immersive learning experience.
