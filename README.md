@@ -19,14 +19,14 @@ Treatments and processing: Some stones may be treated or processed to enhance or
 Ambient light: How the stone interacts with ambient light can also affect the perception of its color. Lighting, light intensity, and the light source can make the stone appear to have different colors under different conditions.
 
 In summary, the color of a stone is determined by its chemical composition, the presence of impurities, the crystal structure, possible treatments, and how it interacts with light. Each type of stone will have specific characteristics that influence its color, and it is the combination of these factors that defines the perceived color of the stone.
+<p align="left">
+ <img src="https://github.com/elias-wolk/-Augmented-Reality-Library/assets/142256550/ee27e540-ad9d-494a-9c84-4a1a8834c530"width="200" />
+<p align="left">
+<img src="https://github.com/elias-wolk/-Augmented-Reality-Library/assets/142256550/7d658fc6-6b27-4975-8001-ec51faac37c2"width="200" />
+</p>
 
-![green rock](https://github.com/elias-wolk/-Augmented-Reality-Library/assets/142256550/ee27e540-ad9d-494a-9c84-4a1a8834c530)
 
-
-![white rock](https://github.com/elias-wolk/-Augmented-Reality-Library/assets/142256550/7d658fc6-6b27-4975-8001-ec51faac37c2)
-
-
-With this application, students can engage in virtual fieldwork activities such as collecting samples, analyzing rocks and minerals, and even simulating geological processes while exploring simulated geological environments. This not only enriches learning but also helps geology professionals enhance their skills and knowledge more efficiently.Developing a virtual environment for the analysis of this data involves creating a software system or platform that can collect, process, and present information related to geology.
+Since NASA already has this data with this application, students and researchers can engage in virtual fieldwork activities such as collecting samples, analyzing rocks and minerals, and even simulating geological processes while exploring simulated geological environments. This not only enriches learning but also helps geology professionals enhance their skills and knowledge more efficiently.Developing a  virtual environment for the analysis of this data involves creating a software system or platform that can collect, process, and present information related to geology.
 
 In summary, the integration of augmented reality into geological studies represents a significant advancement in the way the discipline is taught and understood. This application provides a unique opportunity for practical, interactive, and immersive learning that benefits both students and geological professionals, contributing to a better understanding of our planet and its geological processes.
 
