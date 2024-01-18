@@ -1,7 +1,7 @@
 # Augmented Reality Library for Geological Studies
 
 <p align="center">
-  <img src="file:///C:/Users/elias/OneDrive/Imagens/logos/Augmented%20Reality%20Library%20for%20Geological%20Studies.png" alt="Project Logo" width="200">
+  <img src="https://github.com/elias-wolk/-Augmented-Reality-Library/assets/142256550/39b16463-fb5b-40fa-944f-32e4af62d6fe" alt="Project Logo" width="200">
 </p>
 
 
