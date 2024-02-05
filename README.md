@@ -52,9 +52,5 @@ Contributions are welcome! If you're interested in contributing, please follow o
 
 ---
 
-<p align="center">
-  <img src="" alt="Image 1" width="400">
-  <img src="link-to-your-image2.png" alt="Image 2" width="400">
-</p>
 
 In summary, the integration of augmented reality into geological studies represents a significant advancement in the way the discipline is taught and understood. This application provides a unique opportunity for practical, interactive, and immersive learning that benefits both students and geological professionals, contributing to a better understanding of our planet and its geological processes.
